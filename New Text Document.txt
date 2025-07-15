@@ -3,3 +3,5 @@ add my second file to master
 seocnd line added
 
 midyft for hotfix 2
+
+modify for CR 3
