@@ -4,4 +4,8 @@ seocnd line added
 
 midyft for hotfix 2
 
+<<<<<<< Updated upstream
 modify for CR 3
+=======
+modufy for CR 2
+>>>>>>> Stashed changes
